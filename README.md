@@ -103,9 +103,6 @@ El modelo fue implementado usando:
 
 ---
 
-# 👨‍💻 Autor
-
-Desarrollado por Diego Pedraza
 Proyecto académico y experimental enfocado en agricultura inteligente, sistemas embebidos e inteligencia artificial aplicada.
 
 ---
